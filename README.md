@@ -1,6 +1,6 @@
 ﻿# Stock Research Skill
 
-基于 TSEM 分析框架的股票研究工具，整合 **Finviz** 基本面数据 + **富途新闻 API** 实时资讯。
+diy分析框架的股票研究工具，整合 **Finviz** 基本面数据 + **富途新闻 API** 实时资讯。
 
 ## 功能
 
